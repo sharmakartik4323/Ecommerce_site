@@ -1,1 +1,2 @@
-# Ecommerce_site
+!!IMPORTANT 
+This website is ONLY MADE FOR LARGE SCREEN DEVICES.
